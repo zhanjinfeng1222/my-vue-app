@@ -29,7 +29,7 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 132a
-aas
+aasadf
 234234
 adsf
 12313h
